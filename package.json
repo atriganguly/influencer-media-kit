@@ -19,7 +19,7 @@
     "@fontsource/cormorant-garamond": "^5.2.0",
     "@fontsource/jetbrains-mono": "^5.2.0",
     "@fontsource/plus-jakarta-sans": "^5.2.0",
-    "lucide-react": "^0.460.0",
+    "lucide-react": "^1.75.0",
     "qrcode.react": "^4.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
