@@ -1,0 +1,57 @@
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 12mm 14mm 14mm 14mm;
+  }
+
+  :root {
+    --bg-canvas: #FFFFFF;
+    --bg-surface: #F8F7F4;
+    --ink-primary: #000000;
+    --ink-secondary: #3F3F46;
+    --border-hairline: #D4D4D8;
+    --accent-bronze: #7C6038;
+  }
+
+  html,
+  body {
+    background: #FFFFFF !important;
+    color: #000000 !important;
+    font-size: 10pt;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .print-only {
+    display: block !important;
+  }
+
+  main > section {
+    padding-top: 6mm !important;
+    padding-bottom: 6mm !important;
+  }
+
+  .section-head {
+    margin-bottom: 5mm !important;
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  .avoid-break {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  .page-break-before {
+    break-before: page !important;
+    page-break-before: always !important;
+  }
+
+  a[href^="http"]::after {
+    content: none !important;
+  }
+}

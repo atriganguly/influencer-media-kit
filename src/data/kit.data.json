@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "demoMode": true,
+    "lastUpdated": "November 2026",
+    "liveUrl": "https://atriganguly.github.io/influencer-media-kit/",
+    "canonicalPdfPath": "./media-kit.pdf",
+    "pdfFileName": "Elena-Vance-Media-Kit.pdf",
+    "editionLabel": "Q4 / Q1 Editorial Press & Brand Dossier"
+  },
+  "creator": {
+    "fullName": "Elena Vance",
+    "initials": "EV",
+    "handle": "@elenavance.edit",
+    "instagramUrl": "https://instagram.com/elenavance.edit",
+    "tiktokHandle": "@elenavance",
+    "tagline": "Quiet-Luxury Aesthetics, High-Retention GRWM Storytelling & Architectural Travel",
+    "editorialBio": "Elena Vance bridges Parisian editorial restraint with high-converting visual storytelling across prestige beauty, haircare, ready-to-wear fashion, mechanical horology, and five-star hospitality. Known for cinema-grade 9:16 lighting and deeply trusted product curation, her digital salon serves an affluent, design-literate audience across London, Paris, New York, and Dubai.",
+    "pillarsList": [
+      "Prestige Makeup & Glass-Skin GRWM",
+      "Silk-Press & Salon Hairstyling",
+      "Quiet-Luxury Fashion & Investment Handbags",
+      "Mechanical Horology & Fine Jewelry",
+      "Five-Star Palaces, Thermal Spas & Reformer Wellness"
+    ],
+    "locations": [
+      "Paris",
+      "London",
+      "Milan",
+      "Dubai"
+    ],
+    "heroPortraitUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1200&q=85",
+    "heroPortraitAlt": "Elena Vance editorial portrait in tailored neutral blazer"
+  },
+  "verticals": [
+    {
+      "id": "all",
+      "label": "Complete Dossier (All Verticals)",
+      "shortLabel": "All Verticals",
+      "description": "Full cross-category performance across Beauty, Fashion, Horology, and Luxury Hospitality."
+    },
+    {
+      "id": "beauty-grwm",
+      "label": "Beauty, GRWM & Hairstyling",
+      "shortLabel": "Beauty & GRWM",
+      "description": "Prestige skincare, complexion artistry, fragrance wardrobes, and salon hair rituals."
+    },
+    {
+      "id": "fashion-horology",
+      "label": "Fashion, Handbags & Watches",
+      "shortLabel": "Fashion & Horology",
+      "description": "Capsule wardrobe styling, heritage leather goods, and fine mechanical timepieces."
+    },
+    {
+      "id": "hospitality-wellness",
+      "label": "Luxury Hotels, Spa & Gym",
+      "shortLabel": "Hotels & Wellness",
+      "description": "Destination resort residencies, longevity spas, and sculpted reformer fitness."
+    }
+  ],
+  "headlineMetrics": [
+    {
+      "id": "reach",
+      "label": "30-Day Accounts Reached",
+      "value": "2.84M",
+      "sublabel": "+34% YoY Organic Growth",
+      "benchmarkNote": "485K Core IG Community"
+    },
+    {
+      "id": "reel-views",
+      "label": "Avg. Editorial Reel Views",
+      "value": "312K",
+      "sublabel": "68% 3-Second Hook Hold",
+      "benchmarkNote": "Top 1.5% Lifestyle Tier"
+    },
+    {
+      "id": "save-rate",
+      "label": "Save-to-Reach Ratio",
+      "value": "6.4%",
+      "sublabel": "High Purchase Intent",
+      "benchmarkNote": "3.2x Luxury Industry Avg"
+    },
+    {
+      "id": "tier1-geo",
+      "label": "Tier-1 Luxury Markets",
+      "value": "84%",
+      "sublabel": "US, UK, FR, IT, UAE, CH",
+      "benchmarkNote": "76% Aged 25–44"
+    }
+  ],
+  "formatPerformance": [
+    {
+      "format": "Reels (9:16 Cinema)",
+      "avgViewsOrReach": "312,000 Avg. Plays",
+      "primaryKpiLabel": "Avg. Watch Completion",
+      "primaryKpiValue": "44.8%",
+      "secondaryKpiLabel": "Avg. Shares + Saves",
+      "secondaryKpiValue": "14,200",
+      "editorialNote": "ASMR tactile unboxings, natural-light GRWM transitions, and suite walkthroughs."
+    },
+    {
+      "format": "Editorial Carousels (4:5)",
+      "avgViewsOrReach": "148,000 Avg. Reach",
+      "primaryKpiLabel": "Engagement Rate",
+      "primaryKpiValue": "7.9%",
+      "secondaryKpiLabel": "Avg. Bookmarks / Saves",
+      "secondaryKpiValue": "9,450",
+      "editorialNote": "Multi-slide outfit lookbooks, watch dial macro photography, and skincare routines."
+    },
+    {
+      "format": "24h Story Narratives",
+      "avgViewsOrReach": "64,500 Avg. Views",
+      "primaryKpiLabel": "Outbound Link CTR",
+      "primaryKpiValue": "4.6%",
+      "secondaryKpiLabel": "Sticker Tap Retention",
+      "secondaryKpiValue": "89%",
+      "editorialNote": "Intimate daily gym/spa check-ins, direct boutique codes, and Q&A shade matching."
+    }
+  ],
+  "audience": {
+    "genderSplit": {
+      "female": 79,
+      "male": 19,
+      "other": 2
+    },
+    "ageBrackets": [
+      {
+        "range": "18–24",
+        "percentage": 14
+      },
+      {
+        "range": "25–34",
+        "percentage": 49
+      },
+      {
+        "range": "35–44",
+        "percentage": 27
+      },
+      {
+        "range": "45+",
+        "percentage": 10
+      }
+    ],
+    "topCountries": [
+      {
+        "country": "United States",
+        "code": "US",
+        "percentage": 34
+      },
+      {
+        "country": "United Kingdom",
+        "code": "GB",
+        "percentage": 21
+      },
+      {
+        "country": "France & Italy",
+        "code": "EU",
+        "percentage": 15
+      },
+      {
+        "country": "United Arab Emirates",
+        "code": "AE",
+        "percentage": 9
+      },
+      {
+        "country": "Switzerland & Singapore",
+        "code": "CH/SG",
+        "percentage": 5
+      }
+    ],
+    "topCities": [
+      "London",
+      "New York",
+      "Paris",
+      "Dubai",
+      "Los Angeles",
+      "Milan"
+    ],
+    "purchasingPowerSignals": [
+      {
+        "label": "Est. Household Income > $150K",
+        "value": "62%"
+      },
+      {
+        "label": "Luxury Beauty / Skincare Buyers",
+        "value": "88%"
+      },
+      {
+        "label": "International 5-Star Hotel Guests (12m)",
+        "value": "54%"
+      },
+      {
+        "label": "Fine Watch & Leather Goods Affinity",
+        "value": "41%"
+      }
+    ]
+  },
+  "caseStudies": [
+    {
+      "id": "cs-beauty-01",
+      "vertical": "beauty-grwm",
+      "verticalBadge": "Beauty & Hairstyling",
+      "brandName": "Maison Lumière Paris",
+      "campaignTitle": "Velvet Complexion & Blowout Evening GRWM",
+      "deliverablesSummary": "1x 60s Cinema GRWM Reel + 4-Frame Shade-Match Story Sequence + 30-Day Spark Ad Whitelisting",
+      "heroImage": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=900&q=80",
+      "imageAlt": "Luxury beauty vanity setup with prestige serum and makeup brushes",
+      "summary": "Documented an unhurried pre-gala hairstyling and luminous skin preparation ritual in natural Parisian apartment light, driving immediate shade-finder traffic.",
+      "metrics": [
+        {
+          "label": "Organic Reel Plays",
+          "value": "640K"
+        },
+        {
+          "label": "Direct Boutique Clicks",
+          "value": "18,400"
+        },
+        {
+          "label": "ROAS (Whitelisted)",
+          "value": "4.8x"
+        }
+      ],
+      "clientQuote": "Elena's GRWM film became our top-converting paid social asset across UK and EU markets within 72 hours."
+    },
+    {
+      "id": "cs-horology-01",
+      "vertical": "fashion-horology",
+      "verticalBadge": "Fashion & Horology",
+      "brandName": "Atelier Genève Horlogerie",
+      "campaignTitle": "Calibre 09 Steel & Rose Gold — Day-to-Evening Styling",
+      "deliverablesSummary": "1x Macro Unboxing & Styling Reel + 6-Slide Editorial Lookbook Carousel + Dual-Use Stills",
+      "heroImage": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=900&q=80",
+      "imageAlt": "Luxury mechanical dress watch styled with cashmere knitwear",
+      "summary": "Paired an ultra-thin mechanical timepiece with structured cashmere tailoring and an investment top-handle bag, positioning the watch for female collectors.",
+      "metrics": [
+        {
+          "label": "Carousel Saves",
+          "value": "16,900"
+        },
+        {
+          "label": "Private Salon Appointments",
+          "value": "42 Qualified"
+        },
+        {
+          "label": "Est. MIV Generated",
+          "value": "$185K"
+        }
+      ]
+    },
+    {
+      "id": "cs-hospitality-01",
+      "vertical": "hospitality-wellness",
+      "verticalBadge": "Hospitality, Spa & Wellness",
+      "brandName": "Palazzo Belvedere Lake Como",
+      "campaignTitle": "48 Hours of Alpine Thermal Wellness & Reformer Rituals",
+      "deliverablesSummary": "2x Architectural Reels + 1x Spa & Gym Morning Routine Carousel + 12-Frame Live Residency Stories",
+      "heroImage": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=900&q=80",
+      "imageAlt": "Five-star lakeside luxury hotel terrace and infinity spa pool",
+      "summary": "Captured sunrise reformer conditioning, hydrotherapy spa rituals, and private Riva boat arrival with a bespoke booking code for suite reservations.",
+      "metrics": [
+        {
+          "label": "Total Residency Reach",
+          "value": "1.15M"
+        },
+        {
+          "label": "Tracked Suite Inquiries",
+          "value": "114 Nights"
+        },
+        {
+          "label": "Story Completion Rate",
+          "value": "91%"
+        }
+      ]
+    }
+  ],
+  "brandPartners": [
+    {
+      "name": "LA MER",
+      "vertical": "beauty-grwm",
+      "tier": "Prestige"
+    },
+    {
+      "name": "KÉRASTASE PARIS",
+      "vertical": "beauty-grwm",
+      "tier": "Prestige"
+    },
+    {
+      "name": "GUERLAIN",
+      "vertical": "beauty-grwm",
+      "tier": "Maison"
+    },
+    {
+      "name": "CARTIER",
+      "vertical": "fashion-horology",
+      "tier": "Maison"
+    },
+    {
+      "name": "BOTTEGA VENETA",
+      "vertical": "fashion-horology",
+      "tier": "Maison"
+    },
+    {
+      "name": "OMEGA",
+      "vertical": "fashion-horology",
+      "tier": "Maison"
+    },
+    {
+      "name": "AMAN RESORTS",
+      "vertical": "hospitality-wellness",
+      "tier": "Hospitality"
+    },
+    {
+      "name": "FOUR SEASONS",
+      "vertical": "hospitality-wellness",
+      "tier": "Hospitality"
+    },
+    {
+      "name": "ALO YOGA",
+      "vertical": "hospitality-wellness",
+      "tier": "Prestige"
+    }
+  ],
+  "pricing": {
+    "defaultPublicVisible": true,
+    "remoteFlagUrl": "",
+    "currencySymbol": "$",
+    "packages": [
+      {
+        "id": "pkg-reel",
+        "name": "The Editorial Cinema Reel",
+        "verticalFit": [
+          "all",
+          "beauty-grwm",
+          "fashion-horology",
+          "hospitality-wellness"
+        ],
+        "startingPriceUsd": 6500,
+        "turnaroundDays": 7,
+        "deliverables": [
+          "1x 45–60s 4K 9:16 Instagram Reel (color-graded & sound-designed)",
+          "Cross-post to TikTok included upon request",
+          "3-Frame Story amplification with direct tracked link",
+          "14-day post-campaign KPI & retention report"
+        ],
+        "idealFor": "Product launches, GRWM tutorials, watch/bag unboxings, and gym/spa routines."
+      },
+      {
+        "id": "pkg-carousel",
+        "name": "The Lookbook Editorial Carousel",
+        "verticalFit": [
+          "all",
+          "fashion-horology",
+          "beauty-grwm"
+        ],
+        "startingPriceUsd": 4800,
+        "turnaroundDays": 5,
+        "deliverables": [
+          "Up to 7x retouched high-resolution 4:5 editorial stills",
+          "Detailed styling/shade breakdown in caption copy",
+          "2-Frame Story spotlight with direct product tags",
+          "3 high-res stills licensed for brand organic social"
+        ],
+        "idealFor": "Seasonal RTW capsules, handbag styling, fragrance wardrobes, and salon hair color."
+      },
+      {
+        "id": "pkg-residency",
+        "name": "360° Luxury Capsule & Residency",
+        "verticalFit": [
+          "all",
+          "hospitality-wellness",
+          "fashion-horology"
+        ],
+        "startingPriceUsd": 14500,
+        "turnaroundDays": 10,
+        "deliverables": [
+          "2x Cinema 9:16 Reels + 1x 8-Slide Editorial Carousel",
+          "10-Frame live Story narrative across 48 hours",
+          "15 raw & color-graded vertical/horizontal brand stills",
+          "30-Day Paid Partnership / Whitelisting access included"
+        ],
+        "idealFor": "Five-star hotel openings, destination spa retreats, and flagship maison collections."
+      }
+    ],
+    "usageRightsMultipliers": [
+      {
+        "id": "usage-organic",
+        "label": "Organic Feed & Brand Repost Only",
+        "multiplier": 1,
+        "description": "Standard organic posting + brand social reposting."
+      },
+      {
+        "id": "usage-30d",
+        "label": "30-Day Paid Whitelisting / Partnership Ads",
+        "multiplier": 1.35,
+        "description": "Meta Partnership Ad handle authorization for 30 days."
+      },
+      {
+        "id": "usage-90d",
+        "label": "90-Day Global Paid Digital Licensing",
+        "multiplier": 1.75,
+        "description": "Full paid social + brand e-commerce landing page usage."
+      }
+    ],
+    "exclusivityMultipliers": [
+      {
+        "id": "excl-none",
+        "label": "No Category Exclusivity",
+        "multiplier": 1,
+        "description": "Standard non-exclusive editorial calendar."
+      },
+      {
+        "id": "excl-30d",
+        "label": "30-Day Direct Category Lock",
+        "multiplier": 1.25,
+        "description": "Zero competing brands in your sub-category for 30 days."
+      },
+      {
+        "id": "excl-90d",
+        "label": "90-Day Ambassador Exclusivity",
+        "multiplier": 1.5,
+        "description": "Full quarterly category protection across all channels."
+      }
+    ],
+    "privateInquiryMessage": "Bespoke multi-deliverable retainers, global campaign licensing, and regional exclusivity packages are tailored per maison brief. Request our private seasonal rate sheet or submit your campaign parameters below."
+  },
+  "contact": {
+    "representationLabel": "Global Talent & Brand Partnerships",
+    "managerName": "Camille Laurent — Maison Vance Studio",
+    "bookingEmail": "partnerships@elenavance.com",
+    "pressEmail": "press@elenavance.com",
+    "phoneDisplay": "+44 20 7946 0821",
+    "giftingCityNote": "Courier & PR Gifting Studios: Paris (8e) • London (Mayfair) • Dubai (DIFC)"
+  }
+}

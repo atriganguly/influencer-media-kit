@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-canvas: #FAF9F6;
+  --bg-surface: #F3F1EC;
+  --ink-primary: #141413;
+  --ink-secondary: #57534E;
+  --border-hairline: #E5E0D8;
+  --accent-bronze: #9A7B4F;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: var(--bg-canvas);
+    color: var(--ink-primary);
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.print-only {
+  display: none;
+}
